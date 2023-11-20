@@ -5,10 +5,10 @@ Planwise is an AI-powered retirement planning platform designed to assist indivi
 
 ## TEAM MEMBER
 ### TEAM NAME : Catalyst
-**Vaidehi Patil 
-**Pranav Shimpi
-**Parimal Thakre
-**Sanket Shirsath
+- Vaidehi Pati.
+- Pranav Shimpi
+- Parimal Thakre
+- Sanket Shirsath
 
 
 
