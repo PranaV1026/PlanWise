@@ -2,6 +2,16 @@
 
 Planwise is an AI-powered retirement planning platform designed to assist individuals in achieving their financial goals through personalized investment strategies and risk-mitigation techniques.
 
+
+## TEAM MEMBER
+### TEAM NAME : Catalyst
+Vaidehi Patil 
+Pranav Shimpi
+Parimal Thakre
+Sanket Shirsath
+
+
+
 ## Project Overview
 
 Planwise utilizes a combination of machine learning and financial expertise to provide a comprehensive retirement planning solution. The platform's key features include:
@@ -28,6 +38,3 @@ Planwise is built using the following technologies:
 
 - **Python:** Utilized for machine learning model training and deployment
 
-## Installation
-
-To install and run the Planwise project locally, follow these steps:
